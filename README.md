@@ -1,6 +1,8 @@
 
 # Vinícius Antônio Carvalho Leite
 ### Dados Pessoais
+<img src="./foto.jfif" alt="foto" width="200"/>
+
 **Email:** viniciud.dev@gmail.com
 **Telefone:** (99) 4002-8922 
 
